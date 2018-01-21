@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "658342217493",
+    "firebase_url": "https://notificationuvt.firebaseio.com",
+    "project_id": "notificationuvt",
+    "storage_bucket": "notificationuvt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658342217493:android:5fd74478c7dc8860",
+        "android_client_info": {
+          "package_name": "com.tp.uvt.martial0.firebasenotificationuvt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658342217493-qnt8691kr0bnl10iamdtlrggu4ss2rdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVo75TqIqzjkQ1pfehoTM1Y5W-uAh_X1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "310066104178",
+    "firebase_url": "https://login-register-sqlite-tu-dc5d0.firebaseio.com",
+    "project_id": "login-register-sqlite-tu-dc5d0",
+    "storage_bucket": "login-register-sqlite-tu-dc5d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310066104178:android:5ab97657037acd30",
+        "android_client_info": {
+          "package_name": "com.androidtutorialshub.loginregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310066104178-6b0tj8ltv63lbtkg44ut03cut7j3mahp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidtutorialshub.loginregister",
+            "certificate_hash": "0ea0cf2406858850fba7dcc1d0e3011dd69ea1d9"
+          }
+        },
+        {
+          "client_id": "310066104178-82oub8p8prgmrv8rt5mr80mlj4vngt5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAMwf8Z7r3iwtIbkz0BI8FPBk4cJnIMOs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310066104178-82oub8p8prgmrv8rt5mr80mlj4vngt5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
